@@ -13,6 +13,11 @@ __pycache__/
 venv/
 env/
 ENV/
+.venv/
+
+# Code quality tools cache
+.ruff_cache/
+.mypy_cache/
 
 # ChromaDB
 backend/chroma_db/
